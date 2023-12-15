@@ -1,2 +1,2 @@
-# Andriod_Lab
- 
+# Android_Lab
+ Лабораторная работа по Android
